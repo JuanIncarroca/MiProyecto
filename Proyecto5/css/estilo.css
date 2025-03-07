@@ -1,0 +1,117 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	border: 5px solid darkred;
+	background: #01579f;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	color: white;
+}
+body{
+	background: #DBDCD9;
+	font-family: Arial, Helvetica,sans-serif;
+}
+
+.nav1{
+	border: 5px solid yellowgreen;
+	background: #0A0A0A;
+	height: 100%;
+}
+.nav1 ul li{
+		float: left;
+		list-style:none;
+		margin: 50px;
+	}
+}
+a{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
+h5{
+	color: white;
+}
+img{
+	width: 100%;
+	height: 300px;
+	align-items: center;
+	}
+.img1{
+	width: 400px;
+	height: 400px;
+	align-items: center;
+}
+.clearfix{
+	clear: both;
+}
+#contenido{
+	float: left;
+	border: 5px solid yellowgreen;
+	background: #4D4B4B;
+}
+.articulo{
+	float:left;
+	background: burlywood;
+	width: 60%;
+	min-height: 100px;
+	height: 100%;
+}
+aside{
+	float:left;
+	background: #4D4B4B;
+	width: 40%;
+	height: 100%;
+}
+label {
+  font-size: 0.8rem;
+  color: #9e9e9e;
+}
+
+}
+.clearfix{
+	clear: both;
+}
+.Columna01{
+	border: 5px solid #2CEADB;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #EA2C74;
+}
+.Columna02{
+	border: 5px solid #D02CEA;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #e6ee9c;
+}
+.Columna03{
+	border: 5px solid #EACA2C;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #aeea00;
+}
+.Columna04{
+	border: 5px solid #512CEA;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #bdbdbd ;
+}
+
+footer{
+	border: 5px solid darkred;
+	float: left;
+	background: black;
+	width: 100%;
+	text-align: center;
+	min-height: 50px;
+}

@@ -1,0 +1,187 @@
+.row{
+	margin: 0px;
+	padding: 0px;
+}
+* {
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	border: 5px solid red;
+	background: #216C39;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	color: white;
+}
+body{
+	background: #DBDCD9;
+	font-family: Arial, Helvetica,sans-serif;
+}
+.nav1{
+	border: 5px solid yellow;
+	background: #0A0A0A;
+	height: 100%;
+}
+.nav1 ul li{
+	float: left;
+	list-style: none;
+	margin: 50px;
+}
+a{
+	color: white;
+	text-decoration: underline;
+}
+h2{
+	color: white;
+	padding: 0px;
+	margin: 0px;
+}
+h3{
+	color: white;
+	padding: 0px;
+	margin: 0px;
+}
+h5{
+	color: white;
+	padding: 0px;
+	margin: 0px;
+}
+button{
+	width: 100px;
+	height: 100%;
+	align-items: center;
+}
+.boton{
+	width: 30px; 
+	height: 100%;
+	align-items: center;
+}
+.img1{
+	width: 100%;
+	height: 600px;
+	align-items: center;
+}
+.imga{
+	width: 200px; 
+	height: 100%;
+	align-items: center;
+}
+.imgb{
+	width: 200px; 
+	height: 100%;
+	align-items: center;
+}
+.imgc{
+	width: 500px; 
+	height: 100%;
+	align-items: center;
+}
+.imgs{
+	width: 748px; 
+	height: 930px;
+	align-items: center;
+}
+.img01{
+	width: 200px; 
+	height: 100%;
+	align-items: center;
+}
+.img02{
+	width: 200px; 
+	height: 100%;
+	align-items: center;
+}
+.img03{
+	width: 200px; 
+	height: 100%;
+	align-items: center;
+}
+.img04{
+	width: 200px; 
+	height: 100%;
+	align-items: center;
+}
+.img05{
+	width: 200px; 
+	height: 100%;
+	align-items: center;
+}
+.imgp{
+	width: 200px; 
+	height: 100%;
+	align-items: center;
+}
+.clearfix{
+	clear: both;
+}
+#contenido{
+	float: left;
+	border: 5px solid blue;
+	background: #E8E79B;
+	width: 100%;
+	height: 100%;
+}
+.articulo{
+	float:left;
+	background: skyblue;
+	width: 60%;
+	min-height: 100px;
+	height: 100%;
+}
+aside{
+	float:left;
+	background: #E8E79B;
+	width: 40%;
+	height: 100%;
+}
+label {
+  font-size: 0.8rem;
+  color: black;
+}
+.clearfix{
+	clear: both;
+}
+.Columna01{
+	border: 5px solid green;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #5AC7E2;
+}
+.Columna02{
+	border: 5px solid purple;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #7270E1;
+}
+.Columna03{
+	border: 5px solid orange;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #E54742;
+}
+.Columna04{
+	border: 5px solid yellowgreen;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #C45F69;
+}
+.Columna05{
+	border: 5px solid lightskyblue;
+	float: left;
+	width: 100%;
+	min-height: 100px;
+	background: #bdbdbd;
+}
+footer{
+	border: 5px solid red;
+	float: left;
+	background: black;
+	width: 100%;
+	text-align: center;
+	min-height: 50px;
+}
